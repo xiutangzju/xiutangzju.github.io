@@ -70,12 +70,12 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   Advanced Data Mining and Applications (**ADMA**), 2022.
 
 ### STUDENTS
+Wenhao Liu, PhD, started in 2023  
 Xu Gao, PhD, started in 2023  
 Xuhang Zhu, PhD, started in 2024  
-Shijie Yang, Master, started in 2022, ByteDance.      
+Shijie Yang, Master, graduated in 2025, Tencent.      
 Han Lin, Master, started in 2023  
 Yuanrong Wu, Master, started in 2023  
-Wenhao Liu, Master, started in 2023  
 Xingjian Huang, Master, started in 2023  
 Mengfei Cai, Master, started in 2023  
 Jichen Li, Master, started in 2024  
@@ -94,6 +94,6 @@ Peiqi Luo,  Master, started in 2024
    
 ### Program Committee Member (Reviewer): 
 Transactions on Knowledge and Data Engineering (TKDE) 2024    
-The Conference on Information and Knowledge Management (CIKM) 2024  
+The Conference on Information and Knowledge Management (CIKM) 2024, 2025    
 11th DBTest@SIGMOD 2024 (DBTest’24)   
 
