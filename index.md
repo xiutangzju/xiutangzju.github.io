@@ -39,9 +39,9 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   [CORAL: Collaborative Automatic Labeling System based on Large Language Models.](https://www.vldb.org/pvldb/vol17/p4401-zhu.pdf)     
   International Conference on Very Large Data Bases (**VLDB**), 2024.
 
-- Zhihao Chang, Ding Wang, Xiu Tang, Kingsum Chow and Jianwei Yin.    
+- Zhihao Chang, Ding Wang, **Xiu Tang**, Kingsum Chow and Jianwei Yin.    
   General Neural Embedding for Sequence Distance Approximation.  
-  THE 48TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL (**SIGIR**), 2025.   
+  THE 48th international ACM SIGIR conferenc on research and development in information retrieval (**SIGIR**), 2025.   
    
 - Hongwei Yuan, **Xiu Tang**, Ke Chen, Lidan Shou, Gang Chen, Huan Li.    
   CogSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation.  
