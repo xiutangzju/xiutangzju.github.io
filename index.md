@@ -54,7 +54,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 #### Multimodal Learning & NLP 
 
 - Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.  
-  Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.  
+  [Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.](https://arxiv.org/pdf/2503.06510)  
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
   
 - Lilong Wen, **Xiu Tang**, Dongxiang Zhang.  
