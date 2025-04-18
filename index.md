@@ -41,7 +41,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 - Zhihao Chang, Ding Wang, **Xiu Tang**, Kingsum Chow and Jianwei Yin.    
   General Neural Embedding for Sequence Distance Approximation.  
-  THE 48th international ACM SIGIR conferenc on research and development in information retrieval (**SIGIR**), 2025.   
+  THE 48th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2025.
    
 - Hongwei Yuan, **Xiu Tang**, Ke Chen, Lidan Shou, Gang Chen, Huan Li.    
   CogSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation.  
