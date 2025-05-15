@@ -112,4 +112,5 @@ Peiqi Luo,  Master, started in 2024
 Transactions on Knowledge and Data Engineering (TKDE) 2024    
 The Conference on Information and Knowledge Management (CIKM) 2024, 2025    
 11th DBTest@SIGMOD 2024 (DBTest’24)   
+ACM Multimedia 2025 (MM'25)
 
