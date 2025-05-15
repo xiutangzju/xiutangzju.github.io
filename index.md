@@ -53,6 +53,18 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 #### Multimodal Learning & NLP 
 
+- Han Lin, **Xiu Tang**, Huan Li, Wenxue Cao, Sai Wu, Chang Yao, Lidan Shou, Gang Chen.  
+  T2DR: A Two-Tier Deficiency-Resistant Framework for Incomplete Multimodal Learning.  
+  The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findings**), 2025.
+  
+- Yueying Feng, Wang Lin, Wang_Lin, Qingsong Wang, Yangtao Zhou, **Xiu Tang**, Sai Wu, Chang Yao, Jingyuan Chen.  
+  PELICAN: Personalized Education via LLM-powered Cognitive Diagnosis and Adaptive Tutoring.
+  The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025.
+  
+- Zhenlong Dai, Zhiang Dong, Xujie Song, Hengning Wang, Xiu Tang, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.      
+  API Reranking for Automatic Code Completion: Leveraging Explicit Intent and Implicit Cues from Code Context.    
+  The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findings**), 2025.    
+   
 - Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.  
   [Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.](https://arxiv.org/pdf/2503.06510)  
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
