@@ -61,7 +61,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   PELICAN: Personalized Education via LLM-powered Cognitive Diagnosis and Adaptive Tutoring.
   The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL**), 2025.
   
-- Zhenlong Dai, Zhiang Dong, Xujie Song, Hengning Wang, Xiu Tang, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.      
+- Zhenlong Dai, Zhiang Dong, Xujie Song, Hengning Wang, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.      
   API Reranking for Automatic Code Completion: Leveraging Explicit Intent and Implicit Cues from Code Context.    
   The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findings**), 2025.    
    
