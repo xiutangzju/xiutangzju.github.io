@@ -88,16 +88,20 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 ### STUDENTS
 Wenhao Liu, PhD, started in 2023  
 Xu Gao, PhD, started in 2023  
+Kunyi Li, PhD, started in 2023  
 Xuhang Zhu, PhD, started in 2024  
-Shijie Yang, Master, graduated in 2025, Tencent.      
-Han Lin, Master, started in 2023  
-Yuanrong Wu, Master, started in 2023  
+Kedi Wang, PhD, started in 2024  
+
+Han Lin, Master, started in 2023, Alibaba.    
+Yuanrong Wu, Master, started in 2023, Alibaba.    
 Xingjian Huang, Master, started in 2023  
 Mengfei Cai, Master, started in 2023  
 Jichen Li, Master, started in 2024  
 Wenxue Cao, Master, started in 2024  
 Jianhao Shao, Master, started in 2024  
-Peiqi Luo,  Master, started in 2024  
+Peiqi Luo,  Master, started in 2024
+
+Shijie Yang, Master, graduated in 2025, Tencent. 
 
 ### EDUCATION
 
