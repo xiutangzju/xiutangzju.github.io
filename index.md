@@ -44,8 +44,8 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   THE 48th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2025.
    
 - Hongwei Yuan, **Xiu Tang**, Ke Chen, Lidan Shou, Gang Chen, Huan Li.    
-  CogSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation.  
-  The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+  [CogSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation.](https://ojs.aaai.org/index.php/AAAI/article/view/34770#:~:text=In%20this%20paper%2C%20we%20present%20COGSQL%2C%20a%20framework,replicating%20human%20cognitive%20processes%20for%20enhanced%20LLM-based%20text-to-SQL.)    
+  The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
 
 - Haitian Hang, **Xiu Tang**, Bo Zhu, Jianlin Sun.  
   [Unlocking the Power of Diversity in Index Tuning for Cluster Databases.](https://link.springer.com/chapter/10.1007/978-3-031-68312-1_15)   
