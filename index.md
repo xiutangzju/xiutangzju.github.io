@@ -109,8 +109,11 @@ Shijie Yang, Master, graduated in 2025, Tencent.
   Advisor: [Jimmy Yang](https://dblp.uni-trier.de/pid/295/3640.html), [Shanshan Ying](https://dblp.org/pid/80/9726.html)
    
 ### Program Committee Member (Reviewer): 
+IEEE’s Transactions on Computers (IEEE TC) 2025   
 Transactions on Knowledge and Data Engineering (TKDE) 2024    
 The Conference on Information and Knowledge Management (CIKM) 2024, 2025    
+ACM Multimedia 2025 (MM'25)   
 11th DBTest@SIGMOD 2024 (DBTest’24)   
-ACM Multimedia 2025 (MM'25)
+
+  
 
