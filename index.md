@@ -114,6 +114,7 @@ Transactions on Knowledge and Data Engineering (TKDE) 2024
 The Conference on Information and Knowledge Management (CIKM) 2024, 2025    
 ACM Multimedia 2025 (MM'25)   
 11th DBTest@SIGMOD 2024 (DBTest’24)   
+Knowledge and Information Systems (KAIS) 2025       
 
   
 
