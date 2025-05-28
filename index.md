@@ -12,7 +12,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 #### AI & DB
 
 - Wenhao Liu, **Xiu Tang**, Sai Wu, Chang Yao, Gongsheng Yuan, Gang Chen.   
-  A Demonstration of QueryArtisan:  Real-Time Data Lake Analysis via Dynamically Generated Data Manipulation Code.
+  A Demonstration of QueryArtisan:  Real-Time Data Lake Analysis via Dynamically Generated Data Manipulation Code.    
   International Conference on Very Large Data Bases (**VLDB**), 2025.  
   
 - **Xiu Tang**, Wenhao Liu, Sai Wu, Chang Yao, Gongsheng Yuan, Shanshan Ying, Gang Chen.    
