@@ -63,7 +63,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   
 - Yueying Feng, Wang Lin, Wang_Lin, Qingsong Wang, Yangtao Zhou, **Xiu Tang**, Sai Wu, Chang Yao, Jingyuan Chen.    
   PELICAN: Personalized Education via LLM-powered Cognitive Diagnosis and Adaptive Tutoring.  
-  The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL main**), 2025.      
+  The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Main**), 2025.      
    
 - Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.  
   [Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.](https://arxiv.org/pdf/2503.06510)  
