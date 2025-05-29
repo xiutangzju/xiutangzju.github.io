@@ -94,7 +94,7 @@ Kedi Wang, PhD, started in 2024
 
 Han Lin, Master, started in 2023, Alibaba.    
 Yuanrong Wu, Master, started in 2023, Alibaba.    
-Xingjian Huang, Master, started in 2023  
+Xingjian Huang, Master, started in 2023, Tencent.    
 Mengfei Cai, Master, started in 2023  
 Jichen Li, Master, started in 2024  
 Wenxue Cao, Master, started in 2024  
