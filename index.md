@@ -19,7 +19,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   [QueryArtisan: Generating Data Manipulation Codes for Ad-hoc Analysis in Data Lakes.](https://www.vldb.org/pvldb/vol18/p108-yao.pdf)    
   International Conference on Very Large Data Bases (**VLDB**), 2025.
 
-- Jiani Yang, Sai Wu, Yong Wang, Dongxiang Zhang, Yigei Liu, Xiu Tang, Gang Chen.      
+- Jiani Yang, Sai Wu, Yong Wang, Dongxiang Zhang, Yigei Liu, **Xiu Tang**, Gang Chen.      
 Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems.   
 International Conference on Very Large Data Bases (**VLDB**), 2025.   
   
