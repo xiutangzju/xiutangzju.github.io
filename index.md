@@ -17,7 +17,11 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   
 - **Xiu Tang**, Wenhao Liu, Sai Wu, Chang Yao, Gongsheng Yuan, Shanshan Ying, Gang Chen.    
   [QueryArtisan: Generating Data Manipulation Codes for Ad-hoc Analysis in Data Lakes.](https://www.vldb.org/pvldb/vol18/p108-yao.pdf)    
-  International Conference on Very Large Data Bases (**VLDB**), 2025.  
+  International Conference on Very Large Data Bases (**VLDB**), 2025.
+
+- Jiani Yang, Sai Wu, Yong Wang, Dongxiang Zhang, Yigei Liu, Xiu Tang, Gang Chen.      
+Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems.   
+International Conference on Very Large Data Bases (**VLDB**), 2025.   
   
 - Haitian Hang, **Xiu Tang**, Jianling Sun, Lingfeng Bao, David Lo, Haoye Wang.    
   [Robust Auto-Scaling with Probabilistic Workload Forecasting for Cloud Databases.](https://ieeexplore.ieee.org/abstract/document/10598101/authors)  
