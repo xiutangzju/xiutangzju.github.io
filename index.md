@@ -96,15 +96,15 @@ Kunyi Li, PhD, started in 2023
 Xuhang Zhu, PhD, started in 2024  
 Kedi Wang, PhD, started in 2024  
 
-Han Lin, Master, started in 2023, Alibaba.    
-Yuanrong Wu, Master, started in 2023, Alibaba.    
-Xingjian Huang, Master, started in 2023, Tencent.    
-Mengfei Cai, Master, started in 2023  
 Jichen Li, Master, started in 2024  
 Wenxue Cao, Master, started in 2024  
 Jianhao Shao, Master, started in 2024  
 Peiqi Luo,  Master, started in 2024
 
+Han Lin, Master, started in 2023, Alibaba.    
+Yuanrong Wu, Master, started in 2023, Alibaba.    
+Xingjian Huang, Master, started in 2023, Tencent.    
+Mengfei Cai, Master, started in 2023, AntGroup.    
 Shijie Yang, Master, graduated in 2025, Tencent. 
 
 ### EDUCATION
