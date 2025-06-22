@@ -11,11 +11,11 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 #### AI & DB   
 
-- Xuhang Zhu, **Xiu Tang#**, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen.
+- Xuhang Zhu, **Xiu Tang<sup>*</sup>**, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen.
   CoLA: Model Collaboration for Log-based Anomaly Detection.
   International Conference on Very Large Data Bases (**VLDB**), 2025.  
   
-- Wenhao Liu, **Xiu Tang#**, Sai Wu, Chang Yao, Gongsheng Yuan, Gang Chen.   
+- Wenhao Liu, **Xiu Tang<sup>*</sup>**, Sai Wu, Chang Yao, Gongsheng Yuan, Gang Chen.   
   A Demonstration of QueryArtisan:  Real-Time Data Lake Analysis via Dynamically Generated Data Manipulation Code.    
   International Conference on Very Large Data Bases (**VLDB**), 2025.  
   
@@ -51,7 +51,7 @@ International Conference on Very Large Data Bases (**VLDB**), 2025.
   [CORAL: Collaborative Automatic Labeling System based on Large Language Models.](https://www.vldb.org/pvldb/vol17/p4401-zhu.pdf)     
   International Conference on Very Large Data Bases (**VLDB**), 2024.
 
-- Zhihao Chang, Ding Wang, **Xiu Tang#**, Kingsum Chow and Jianwei Yin.    
+- Zhihao Chang, Ding Wang, **Xiu Tang<sup>*</sup>**, Kingsum Chow and Jianwei Yin.    
   General Neural Embedding for Sequence Distance Approximation.  
   THE 48th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2025.
    
@@ -65,7 +65,7 @@ International Conference on Very Large Data Bases (**VLDB**), 2025.
 
 #### Multimodal Learning & NLP 
 
-- Han Lin, **Xiu Tang#**, Huan Li, Wenxue Cao, Sai Wu, Chang Yao, Lidan Shou, Gang Chen.    
+- Han Lin, **Xiu Tang<sup>*</sup>**, Huan Li, Wenxue Cao, Sai Wu, Chang Yao, Lidan Shou, Gang Chen.    
   T2DR: A Two-Tier Deficiency-Resistant Framework for Incomplete Multimodal Learning.    
   The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findings**), 2025.    
    
