@@ -11,9 +11,9 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 #### AI & DB   
 
-- Xuhang Zhu, **Xiu Tang<sup>*</sup>**, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen.
-  CoLA: Model Collaboration for Log-based Anomaly Detection.
-  International Conference on Very Large Data Bases (**VLDB**), 2025.  
+- Xuhang Zhu, **Xiu Tang<sup>*</sup>**, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen.    
+  CoLA: Model Collaboration for Log-based Anomaly Detection.    
+  International Conference on Very Large Data Bases (**VLDB**), 2025.     
   
 - Wenhao Liu, **Xiu Tang<sup>*</sup>**, Sai Wu, Chang Yao, Gongsheng Yuan, Gang Chen.   
   A Demonstration of QueryArtisan:  Real-Time Data Lake Analysis via Dynamically Generated Data Manipulation Code.    
