@@ -90,11 +90,11 @@ International Conference on Very Large Data Bases (**VLDB**), 2025.
   Advanced Data Mining and Applications (**ADMA**), 2022.
 
 ### STUDENTS
-Wenhao Liu, PhD, started in 2023  
-Xu Gao, PhD, started in 2023  
-Kunyi Li, PhD, started in 2023  
-Xuhang Zhu, PhD, started in 2024  
-Kedi Wang, PhD, started in 2024  
+Wenhao Liu, PhD, started in 2023, AntGroup.      
+Xu Gao, PhD, started in 2023, AntGroup.      
+Kunyi Li, PhD, started in 2023, Tencent.      
+Xuhang Zhu, PhD, started in 2024, AntGroup.      
+Kedi Wang, PhD, started in 2024, AntGroup.      
 
 Jichen Li, Master, started in 2024  
 Wenxue Cao, Master, started in 2024  
@@ -105,7 +105,7 @@ Han Lin, Master, started in 2023, Alibaba.
 Yuanrong Wu, Master, started in 2023, Alibaba.    
 Xingjian Huang, Master, started in 2023, Tencent.    
 Mengfei Cai, Master, started in 2023, AntGroup.    
-Shijie Yang, Master, graduated in 2025, Tencent. 
+Shijie Yang, Master, graduated in 2025, Tencent.  
 
 ### EDUCATION
 
