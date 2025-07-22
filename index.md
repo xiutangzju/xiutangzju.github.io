@@ -24,8 +24,8 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   International Conference on Very Large Data Bases (**VLDB**), 2025.
 
 - Jiani Yang, Sai Wu, Yong Wang, Dongxiang Zhang, Yifei Liu, **Xiu Tang**, Gang Chen.      
-Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems.   
-International Conference on Very Large Data Bases (**VLDB**), 2025.   
+  Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems.   
+  International Conference on Very Large Data Bases (**VLDB**), 2025.   
   
 - Haitian Hang, **Xiu Tang**, Jianling Sun, Lingfeng Bao, David Lo, Haoye Wang.    
   [Robust Auto-Scaling with Probabilistic Workload Forecasting for Cloud Databases.](https://ieeexplore.ieee.org/abstract/document/10598101/authors)  
@@ -52,7 +52,7 @@ International Conference on Very Large Data Bases (**VLDB**), 2025.
   International Conference on Very Large Data Bases (**VLDB**), 2024.
 
 - Zhihao Chang, Ding Wang, **Xiu Tang<sup>*</sup>**, Kingsum Chow and Jianwei Yin.    
-  General Neural Embedding for Sequence Distance Approximation.  
+  [General Neural Embedding for Sequence Distance Approximation.](https://dl.acm.org/doi/pdf/10.1145/3726302.3729985)        
   THE 48th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2025.
    
 - Hongwei Yuan, **Xiu Tang**, Ke Chen, Lidan Shou, Gang Chen, Huan Li.    
