@@ -12,7 +12,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 #### AI & DB   
 
 - **Xiu Tang**, Shijie Yang, Sai Wu, Dongxiang Zhang, Wenchao Zhou, Feifei Li, Gang Chen.    
-  Unveiling Logic Bugs in SPJG Query Optimizations within DBMS.
+  Unveiling Logic Bugs in SPJG Query Optimizations within DBMS.          
   ACM Transactions on Database Systems (**TODS**), 2025.
           
 - Xuhang Zhu, **Xiu Tang<sup>*</sup>**, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen.    
