@@ -13,8 +13,8 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 - **Xiu Tang**, Shijie Yang, Sai Wu, Dongxiang Zhang, Wenchao Zhou, Feifei Li, Gang Chen.    
   Unveiling Logic Bugs in SPJG Query Optimizations within DBMS.
-  ACM Transactions on Database Systems (**TODS**), 2025.    
-      
+  ACM Transactions on Database Systems (**TODS**), 2025.
+          
 - Xuhang Zhu, **Xiu Tang<sup>*</sup>**, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen.    
   CoLA: Model Collaboration for Log-based Anomaly Detection.    
   International Conference on Very Large Data Bases (**VLDB**), 2025.     
