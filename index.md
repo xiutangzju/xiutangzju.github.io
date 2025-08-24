@@ -11,6 +11,10 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 #### AI & DB   
 
+- Sai Wu, Ruichen Xia, Dingyu Yang, Rui Wang, Huihang Lai, Jiarui Guan, Jiameng Bai, Dongxiang Zhang, **Xiu Tang**, Zhongle Xie, Peng Lu, Gang Chen.      
+  XDB: A Task-Centric AI-Native DBMS for Model Management and Inference.      
+  The ACM Special Interest Group on Management of Data (**SIGMOD**), 2025.      
+      
 - **Xiu Tang**, Shijie Yang, Sai Wu, Dongxiang Zhang, Wenchao Zhou, Feifei Li, Gang Chen.    
   Unveiling Logic Bugs in SPJG Query Optimizations within DBMS.          
   ACM Transactions on Database Systems (**TODS**), 2025.
