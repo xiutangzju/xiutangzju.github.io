@@ -13,11 +13,11 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 - Sai Wu, Ruichen Xia, Dingyu Yang, Rui Wang, Huihang Lai, Jiarui Guan, Jiameng Bai, Dongxiang Zhang, **Xiu Tang**, Zhongle Xie, Peng Lu, Gang Chen.      
   XDB: A Task-Centric AI-Native DBMS for Model Management and Inference.      
-  The ACM Special Interest Group on Management of Data (**SIGMOD**), 2025.      
+  The ACM Special Interest Group on Management of Data (**SIGMOD**), 2026.      
       
 - **Xiu Tang**, Shijie Yang, Sai Wu, Dongxiang Zhang, Wenchao Zhou, Feifei Li, Gang Chen.    
   Unveiling Logic Bugs in SPJG Query Optimizations within DBMS.          
-  ACM Transactions on Database Systems (**TODS**), 2025.
+  ACM Transactions on Database Systems (**TODS**), 2025.    
           
 - Xuhang Zhu, **Xiu Tang<sup>*</sup>**, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen.    
   CoLA: Model Collaboration for Log-based Anomaly Detection.    
@@ -25,7 +25,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   
 - Wenhao Liu, **Xiu Tang<sup>*</sup>**, Sai Wu, Chang Yao, Gongsheng Yuan, Gang Chen.   
   A Demonstration of QueryArtisan:  Real-Time Data Lake Analysis via Dynamically Generated Data Manipulation Code.    
-  International Conference on Very Large Data Bases (**VLDB**), 2025.  
+  International Conference on Very Large Data Bases (**VLDB**), 2025.   
   
 - **Xiu Tang**, Wenhao Liu, Sai Wu, Chang Yao, Gongsheng Yuan, Shanshan Ying, Gang Chen.    
   [QueryArtisan: Generating Data Manipulation Codes for Ad-hoc Analysis in Data Lakes.](https://www.vldb.org/pvldb/vol18/p108-yao.pdf)    
