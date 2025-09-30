@@ -13,7 +13,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 - Xu Gao, **Xiu Tang<sup>*</sup>**, Chang Yao<sup>*</sup>, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.     
   OMCR: An Online Multivariate Forecaster for Cloud Resource Management.    
-  Transactions on Knowledge and Data Engineering (**TKDE**), 2025.        
+  IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025.        
 
 - Sai Wu, Ruichen Xia, Dingyu Yang, Rui Wang, Huihang Lai, Jiarui Guan, Jiameng Bai, Dongxiang Zhang, **Xiu Tang**, Zhongle Xie, Peng Lu, Gang Chen.      
   XDB: A Task-Centric AI-Native DBMS for Model Management and Inference.      
