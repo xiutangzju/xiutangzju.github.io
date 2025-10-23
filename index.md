@@ -12,7 +12,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 #### AI & DB   
 
 - Xu Gao, **Xiu Tang<sup>*</sup>**, Chang Yao<sup>*</sup>, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.     
-  OMCR: An Online Multivariate Forecaster for Cloud Resource Management.    
+  [OMCR: An Online Multivariate Forecaster for Cloud Resource Management.](https://ieeexplore.ieee.org/document/11197034)    
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025.        
 
 - Sai Wu, Ruichen Xia, Dingyu Yang, Rui Wang, Huihang Lai, Jiarui Guan, Jiameng Bai, Dongxiang Zhang, **Xiu Tang**, Zhongle Xie, Peng Lu, Gang Chen.      
@@ -20,15 +20,15 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   The ACM Special Interest Group on Management of Data (**SIGMOD**), 2026.      
       
 - **Xiu Tang**, Shijie Yang, Sai Wu, Dongxiang Zhang, Wenchao Zhou, Feifei Li, Gang Chen.    
-  Unveiling Logic Bugs in SPJG Query Optimizations within DBMS.          
+  [Unveiling Logic Bugs in SPJG Query Optimizations within DBMS.](https://dl.acm.org/doi/abs/10.1145/3764583)          
   ACM Transactions on Database Systems (**TODS**), 2025.    
           
 - Xuhang Zhu, **Xiu Tang<sup>*</sup>**, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen.    
-  CoLA: Model Collaboration for Log-based Anomaly Detection.    
+  [CoLA: Model Collaboration for Log-based Anomaly Detection.](https://dl.acm.org/doi/10.14778/3749646.3749668)    
   International Conference on Very Large Data Bases (**VLDB**), 2025.     
   
 - Wenhao Liu, **Xiu Tang<sup>*</sup>**, Sai Wu, Chang Yao, Gongsheng Yuan, Gang Chen.   
-  A Demonstration of QueryArtisan:  Real-Time Data Lake Analysis via Dynamically Generated Data Manipulation Code.    
+  [A Demonstration of QueryArtisan:  Real-Time Data Lake Analysis via Dynamically Generated Data Manipulation Code.](https://dl.acm.org/doi/10.14778/3750601.3750647)    
   International Conference on Very Large Data Bases (**VLDB**), 2025.   
   
 - **Xiu Tang**, Wenhao Liu, Sai Wu, Chang Yao, Gongsheng Yuan, Shanshan Ying, Gang Chen.    
@@ -36,7 +36,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   International Conference on Very Large Data Bases (**VLDB**), 2025.
 
 - Jiani Yang, Sai Wu, Yong Wang, Dongxiang Zhang, Yifei Liu, **Xiu Tang**, Gang Chen.      
-  Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems.   
+  [Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems.](https://dl.acm.org/doi/10.14778/3748191.3748197)   
   International Conference on Very Large Data Bases (**VLDB**), 2025.   
   
 - Haitian Hang, **Xiu Tang**, Jianling Sun, Lingfeng Bao, David Lo, Haoye Wang.    
@@ -78,7 +78,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 #### Multimodal Learning & NLP 
 
 - Han Lin, **Xiu Tang<sup>*</sup>**, Huan Li, Wenxue Cao, Sai Wu, Chang Yao, Lidan Shou, Gang Chen.    
-  T2DR: A Two-Tier Deficiency-Resistant Framework for Incomplete Multimodal Learning.    
+  [T2DR: A Two-Tier Deficiency-Resistant Framework for Incomplete Multimodal Learning.](https://aclanthology.org/2025.findings-acl.452/)    
   The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findings**), 2025.    
    
 - Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.  
