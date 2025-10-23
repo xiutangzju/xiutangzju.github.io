@@ -106,12 +106,18 @@ Wenhao Liu, PhD, started in 2023, AntGroup.
 Xu Gao, PhD, started in 2023, AntGroup.      
 Kunyi Li, PhD, started in 2023, Tencent.      
 Xuhang Zhu, PhD, started in 2024, AntGroup.      
-Kedi Wang, PhD, started in 2024, AntGroup.      
+Kedi Wang, PhD, started in 2024, AntGroup. 
+Zhensheng Luo, PhD, started in 2025.   
 
 Jichen Li, Master, started in 2024  
 Wenxue Cao, Master, started in 2024  
 Jianhao Shao, Master, started in 2024  
-Peiqi Luo,  Master, started in 2024
+Peiqi Luo,  Master, started in 2024    
+Zhiqiang Cheng, Master, started in 2025   
+Kaixin Jin, Master, started in 2025    
+Zheng Meng, Master, started in 2025   
+Yitong Zhang,  Master, started in 2025     
+Jinjin Wang,  Master, started in 2025         
 
 Han Lin, Master, started in 2023, Alibaba.    
 Yuanrong Wu, Master, started in 2023, Alibaba.    
@@ -119,16 +125,18 @@ Xingjian Huang, Master, started in 2023, Tencent.
 Mengfei Cai, Master, started in 2023, AntGroup.    
 Shijie Yang, Master, graduated in 2025, Tencent.  
 
-### EDUCATION
 
+### EDUCATION
 - PhD in Computer Science and Technology. Zhejiang University, Hangzhou, China (Mar. 2023)  
-  Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ)
+  Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ)    
   
-### INTERNSHIP
-- Research Intern of Alibaba PolarDB Optimizer and SQL Group, Hangzhou, China (Apr. 2020 - Apr. 2023)   
-  Advisor: [Jimmy Yang](https://dblp.uni-trier.de/pid/295/3640.html), [Shanshan Ying](https://dblp.org/pid/80/9726.html)
-   
-### Program Committee Member (Reviewer):  
+### TEACHING
+- Advanced Database Technology, 2025 Autumn    
+- Software Testing, 2025 Winter    
+- Advanced Database Technology, 2024 Autumn    
+- Software Testing, 2024 Winter    
+
+### Program Committee Member (Reviewer):   
 IEEE’s Transactions on Computers (IEEE TC) 2025    
 Transactions on Knowledge and Data Engineering (TKDE) 2024     
 The Conference on Information and Knowledge Management (CIKM) 2024, 2025     
@@ -138,5 +146,4 @@ AAAI Conference on Artificial Intelligence (AAAI) 2026
 Data Scuence and Engineering (DSE) 2024, 2025  
 Knowledge and Information Systems (KAIS) 2025       
 
-  
 
