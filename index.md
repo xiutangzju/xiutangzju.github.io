@@ -2,7 +2,7 @@ Assistant Professor
 School of Software, Zhejiang University, China   
 Email: tangxiu@zju.edu.cn / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=INkJByIAAAAJ)  
 
-My research interests lie generally in the area of AI & DB, including database query optimization, DB testing and index tuning.  
+My research interests lie generally in the area of AI & DB, software testing, multi-modal learning.  
 
 ### News
 I am currently looking for PhD students to work on AI & DB. Please email me your CV if you are interested.
