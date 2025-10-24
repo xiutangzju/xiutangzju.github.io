@@ -11,7 +11,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 #### AI & DB   
 
-- Xu Gao, **Xiu Tang<sup>*</sup>**, Chang Yao<sup>*</sup>, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.     
+- Xu Gao, **Xiu Tang<sup>*</sup>**, Chang Yao, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.     
   [OMCR: An Online Multivariate Forecaster for Cloud Resource Management.](https://ieeexplore.ieee.org/document/11197034)    
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025.        
 
@@ -106,7 +106,7 @@ Wenhao Liu, PhD, started in 2023, AntGroup.
 Xu Gao, PhD, started in 2023, AntGroup.      
 Kunyi Li, PhD, started in 2023, Tencent.      
 Xuhang Zhu, PhD, started in 2024, AntGroup.      
-Kedi Wang, PhD, started in 2024, AntGroup. 
+Kedi Wang, PhD, started in 2024, AntGroup.     
 Zhensheng Luo, PhD, started in 2025.   
 
 Jichen Li, Master, started in 2024  
