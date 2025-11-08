@@ -75,7 +75,11 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   [Unlocking the Power of Diversity in Index Tuning for Cluster Databases.](https://link.springer.com/chapter/10.1007/978-3-031-68312-1_15)   
   International Conference on Database and Expert Systems Applications (**DEXA**), 2024.
 
-#### Multimodal Learning & NLP 
+#### Multimodal Learning & NLP    
+
+- Zhenlong Dai, Zhuoluo Zhao, Hengning Wang, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.     
+  Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement.    
+  The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.     
 
 - Han Lin, **Xiu Tang<sup>*</sup>**, Huan Li, Wenxue Cao, Sai Wu, Chang Yao, Lidan Shou, Gang Chen.    
   [T2DR: A Two-Tier Deficiency-Resistant Framework for Incomplete Multimodal Learning.](https://aclanthology.org/2025.findings-acl.452/)    
