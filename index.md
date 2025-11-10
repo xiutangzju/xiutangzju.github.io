@@ -107,7 +107,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 ### STUDENTS
 Wenhao Liu, PhD, started in 2023, AntGroup.      
-Xu Gao, PhD, started in 2023, AntGroup.      
+Xu Gao, PhD, started in 2023.      
 Kunyi Li, PhD, started in 2023, Tencent.      
 Xuhang Zhu, PhD, started in 2024, AntGroup.      
 Kedi Wang, PhD, started in 2024, AntGroup.     
