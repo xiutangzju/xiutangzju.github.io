@@ -77,6 +77,10 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 #### Multimodal Learning & NLP    
 
+- Qianyi Yang, Bingcang Huang, Qin Zhou, Zhe Wang, Kai Chen, **Xiu Tang**, Chang Yao, Sai Wu.    
+  Unsupervised Brain Anomaly Detection Using Structure-Preserving Noise Generation and Multi-Scale Dual-Expert Ensembles.    
+  IEEE Journal of Biomedical and Health Informatics, 2025.    
+    
 - Zhenlong Dai, Zhuoluo Zhao, Hengning Wang, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.     
   Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement.    
   The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.     
