@@ -77,6 +77,10 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 #### Multimodal Learning & NLP    
 
+- Kunyi Li, Sai Wu, **Xiu Tang<sup>*</sup>**, Chang Yao, Songhao Bu, Quanqing Xu, Gang Chen.       
+  Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?          
+  The ACM International Conference on the Foundations of Software Engineering (**FSE**), 2026.       
+        
 - Qianyi Yang, Bingcang Huang, Qin Zhou, Zhe Wang, Kai Chen, **Xiu Tang**, Chang Yao, Sai Wu.    
   Unsupervised Brain Anomaly Detection Using Structure-Preserving Noise Generation and Multi-Scale Dual-Expert Ensembles.    
   IEEE Journal of Biomedical and Health Informatics, 2026.    
