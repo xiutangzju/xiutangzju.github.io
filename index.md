@@ -16,7 +16,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025.        
 
 - Sai Wu, Ruichen Xia, Dingyu Yang, Rui Wang, Huihang Lai, Jiarui Guan, Jiameng Bai, Dongxiang Zhang, **Xiu Tang**, Zhongle Xie, Peng Lu, Gang Chen.      
-  XDB: A Task-Centric AI-Native DBMS for Model Management and Inference.      
+  MorphingDB: A Task-Centric AI-Native DBMS for Model Management and Inference.       
   The ACM Special Interest Group on Management of Data (**SIGMOD**), 2026.      
       
 - **Xiu Tang**, Shijie Yang, Sai Wu, Dongxiang Zhang, Wenchao Zhou, Feifei Li, Gang Chen.    
@@ -82,7 +82,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   The ACM International Conference on the Foundations of Software Engineering (**FSE**), 2026.       
         
 - Qianyi Yang, Bingcang Huang, Qin Zhou, Zhe Wang, Kai Chen, **Xiu Tang**, Chang Yao, Sai Wu.    
-  Unsupervised Brain Anomaly Detection Using Structure-Preserving Noise Generation and Multi-Scale Dual-Expert Ensembles.    
+  [Unsupervised Brain Anomaly Detection Using Structure-Preserving Noise Generation and Multi-Scale Dual-Expert Ensembles.](https://ieeexplore.ieee.org/document/11250579)          
   IEEE Journal of Biomedical and Health Informatics, 2026.    
     
 - Zhenlong Dai, Zhuoluo Zhao, Hengning Wang, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.     
