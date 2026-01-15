@@ -154,7 +154,7 @@ Transactions on Knowledge and Data Engineering (TKDE) 2024
 The Conference on Information and Knowledge Management (CIKM) 2024, 2025     
 ACM Multimedia (MM) 2026    
 AAAI Conference on Artificial Intelligence (AAAI) 2026    
-11th DBTest@SIGMOD 2024 (DBTest’24)       
+DBTest@SIGMOD 2024, 2026          
 Data Scuence and Engineering (DSE) 2024, 2025  
 Knowledge and Information Systems (KAIS) 2025       
 
