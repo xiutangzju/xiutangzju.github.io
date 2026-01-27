@@ -95,9 +95,13 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
    
 - Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.  
   [Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.](https://arxiv.org/pdf/2503.06510)  
-  The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
-  
-- Lilong Wen, **Xiu Tang**, Dongxiang Zhang.  
+  The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+
+- Xuhang Zhu, Xiu Tang, Sai Wu, Yixuan Tang, Haobo Wang, Chang Yao, Ruichen Xia, Gang Chen.        
+  Bridge-SQL: Bridging Single- and Multi-Turn Text-to-SQL via Preference-Aligned Question Rewriting.        
+  The 31st International Conference on Database Systems for Advanced Applications (**DASFAA**), 2026.      
+            
+- Lilong Wen, **Xiu Tang**, Dongxiang Zhang.     
   [TWIST: Text-only Weakly Supervised Scene Text Spotting Using Pseudo Labels.](https://dl.acm.org/doi/abs/10.1145/3652583.3658075)  
   International Conference on Multimedia Retrieval (**ICMR**), 2024.   
   
