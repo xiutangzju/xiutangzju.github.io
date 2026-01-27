@@ -97,7 +97,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   [Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.](https://arxiv.org/pdf/2503.06510)  
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
-- Xuhang Zhu, Xiu Tang, Sai Wu, Yixuan Tang, Haobo Wang, Chang Yao, Ruichen Xia, Gang Chen.        
+- Xuhang Zhu, **Xiu Tang**, Sai Wu, Yixuan Tang, Haobo Wang, Chang Yao, Ruichen Xia, Gang Chen.        
   Bridge-SQL: Bridging Single- and Multi-Turn Text-to-SQL via Preference-Aligned Question Rewriting.        
   The 31st International Conference on Database Systems for Advanced Applications (**DASFAA**), 2026.      
             
