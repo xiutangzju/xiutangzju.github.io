@@ -155,11 +155,12 @@ Shijie Yang, Master, graduated in 2025, Tencent.
 ### Program Committee Member (Reviewer):   
 IEEE’s Transactions on Computers (IEEE TC) 2025    
 Transactions on Knowledge and Data Engineering (TKDE) 2024     
-International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2026      
-The Conference on Information and Knowledge Management (CIKM) 2024, 2025     
 ACM Multimedia (MM) 2026    
-AAAI Conference on Artificial Intelligence (AAAI) 2026    
+AAAI Conference on Artificial Intelligence (AAAI) 2026     
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026      
+International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2026      
 DBTest@SIGMOD 2024, 2026          
+The Conference on Information and Knowledge Management (CIKM) 2024, 2025     
 Data Scuence and Engineering (DSE) 2024, 2025  
 Knowledge and Information Systems (KAIS) 2025       
 
