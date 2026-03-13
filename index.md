@@ -27,7 +27,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   [CoLA: Model Collaboration for Log-based Anomaly Detection.](https://dl.acm.org/doi/10.14778/3749646.3749668)    
   International Conference on Very Large Data Bases (**VLDB**), 2025.     
   <font color=IndianRed><b>VLDBJ "Best of VLDB 2025" Special Issue (Invited)</b></font>
-            
+                  
 - Wenhao Liu, **Xiu Tang<sup>*</sup>**, Sai Wu, Chang Yao, Gongsheng Yuan, Gang Chen.   
   [A Demonstration of QueryArtisan:  Real-Time Data Lake Analysis via Dynamically Generated Data Manipulation Code.](https://dl.acm.org/doi/10.14778/3750601.3750647)    
   International Conference on Very Large Data Bases (**VLDB**), 2025.   
