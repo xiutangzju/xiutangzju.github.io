@@ -135,11 +135,11 @@ Zheng Meng, Master, started in 2025
 Yitong Zhang,  Master, started in 2025     
 Jinjin Wang,  Master, started in 2025         
 
-Han Lin, Master, started in 2023, Alibaba.    
-Yuanrong Wu, Master, started in 2023, Alibaba.    
-Xingjian Huang, Master, started in 2023, Tencent.    
-Mengfei Cai, Master, started in 2023, AntGroup.    
-Shijie Yang, Master, graduated in 2025, Tencent.  
+Han Lin, Master, graduated in 2026, Alibaba.    
+Yuanrong Wu, Master, graduated in 2026, Alibaba.    
+Xingjian Huang, Master, graduated in 2026, Tencent.     
+Mengfei Cai, Master, graduated in 2026, AntGroup.     
+Shijie Yang, Master, graduated in 2025, Tencent.     
 
 
 ### EDUCATION
