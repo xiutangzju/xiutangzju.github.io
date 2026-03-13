@@ -25,8 +25,9 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
           
 - Xuhang Zhu, **Xiu Tang<sup>*</sup>**, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen.    
   [CoLA: Model Collaboration for Log-based Anomaly Detection.](https://dl.acm.org/doi/10.14778/3749646.3749668)    
-  International Conference on Very Large Data Bases (**VLDB**), 2025.     
-  <font color=IndianRed><b>VLDBJ "Best of VLDB 2025" Special Issue (Invited)</b></font>.
+  International Conference on Very Large Data Bases (**VLDB**), 2025.         
+  <font color=IndianRed><b>VLDBJ "Best of VLDB 2025" Special Issue (Invited)</b></font>
+             
                       
 - Wenhao Liu, **Xiu Tang<sup>*</sup>**, Sai Wu, Chang Yao, Gongsheng Yuan, Gang Chen.   
   [A Demonstration of QueryArtisan:  Real-Time Data Lake Analysis via Dynamically Generated Data Manipulation Code.](https://dl.acm.org/doi/10.14778/3750601.3750647)    
@@ -50,9 +51,10 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 - **Xiu Tang**, Sai Wu, Dongxiang Zhang, Feifei Li, Gang Chen.  
   [Detecting Logic Bugs of Join Optimizations in DBMS.](https://dl.acm.org/doi/10.1145/3588909)   
-  The ACM Special Interest Group on Management of Data (**SIGMOD**), 2023.
+  The ACM Special Interest Group on Management of Data (**SIGMOD**), 2023.             
   <font color=IndianRed><b>ACM SIGMOD 2023 Best Paper Award</b></font>          
 
+                             
 - **Xiu Tang**, Sai Wu, Mingli Song, Shanshan Ying, Feifei Li, Gang Chen.  
   [PreQR: Pre-training Representation for SQL Understanding.](https://dl.acm.org/doi/10.1145/3514221.3517878)  
   The ACM Special Interest Group on Management of Data (**SIGMOD**), 2022.  
