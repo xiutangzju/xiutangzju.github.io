@@ -126,17 +126,17 @@ Kedi Wang, PhD, started in 2024, AntGroup.
 Zhensheng Luo, PhD, started in 2025.   
 
 Jichen Li, Master, started in 2024  
-Wenxue Cao, Master, started in 2024  
-Jianhao Shao, Master, started in 2024  
-Peiqi Luo,  Master, started in 2024    
-Zhiqiang Cheng, Master, started in 2025   
-Kaixin Jin, Master, started in 2025    
-Zheng Meng, Master, started in 2025   
+Wenxue Cao, Master, started in 2024, AntGroup.           
+Jianhao Shao, Master, started in 2024    
+Peiqi Luo,  Master, started in 2024      
+Zhiqiang Cheng, Master, started in 2025     
+Kaixin Jin, Master, started in 2025      
+Zheng Meng, Master, started in 2025      
 Yitong Zhang,  Master, started in 2025     
 Jinjin Wang,  Master, started in 2025         
 
 Han Lin, Master, graduated in 2026, Alibaba.    
-Yuanrong Wu, Master, graduated in 2026, Alibaba.    
+Yuanrong Wu, Master, graduated in 2026, Baidu.    
 Xingjian Huang, Master, graduated in 2026, Tencent.     
 Mengfei Cai, Master, graduated in 2026, AntGroup.     
 Shijie Yang, Master, graduated in 2025, Tencent.     
