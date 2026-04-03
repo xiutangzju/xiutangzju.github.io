@@ -62,7 +62,11 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 - Zhen Zhu, Yibo Wang, Shouqing Yang, Lin Long, Runze Wu, **Xiu Tang**, Junbo Zhao, Haobo Wang.  
   [CORAL: Collaborative Automatic Labeling System based on Large Language Models.](https://www.vldb.org/pvldb/vol17/p4401-zhu.pdf)     
   International Conference on Very Large Data Bases (**VLDB**), 2024.
-
+        
+- Zhou He, Zhifei Pang, **Xiu Tang**, Sai Wu, Gang Chen.    
+  Corpus-Centric Learning for Zero-Shot Table.
+  THE 49th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2026.        
+        
 - Zhihao Chang, Ding Wang, **Xiu Tang<sup>*</sup>**, Kingsum Chow and Jianwei Yin.    
   [General Neural Embedding for Sequence Distance Approximation.](https://dl.acm.org/doi/pdf/10.1145/3726302.3729985)        
   THE 48th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2025.
