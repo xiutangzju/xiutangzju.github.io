@@ -82,8 +82,8 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 #### Multimodal Learning & NLP    
 
 - Zhensheng Luo, Sai Wu, Yuan Qiu, Chang Yao, Gang Chen, **Xiu Tang<sup>*</sup>**.    
-  QBridge: Bridging Natural Language and SQL via Gold Query Rewriting with Agentic Refinement.
-  The 64rd Annual Meeting of the Association for Computational Linguistics (**ACL Main**), 2026.
+  QBridge: Bridging Natural Language and SQL via Gold Query Rewriting with Agentic Refinement.          
+  The 64rd Annual Meeting of the Association for Computational Linguistics (**ACL Main**), 2026.        
             
 - Kunyi Li, Sai Wu, **Xiu Tang<sup>*</sup>**, Chang Yao, Songhao Bu, Quanqing Xu, Gang Chen.       
   Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?          
