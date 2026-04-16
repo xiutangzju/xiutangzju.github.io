@@ -120,14 +120,6 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 - **Xiu Tang**, Sai Wu, Gang Chen, Ke Chen, Lidan Shou.  
   [Learning to Label with Active Learning and Reinforcement Learning.](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_36)  
   Database Systems for Advanced Applications (**DASFAA**), 2021.  
-  
-- **Xiu Tang**, Yangchao Xu, Xuefeng Lu, Qiang He, Jun Fang, Junjie Chen.  
-  [DeMRC: Dynamically Enhanced Multi-hop Reading Comprehension Model for Low Data.](https://link.springer.com/chapter/10.1007/978-3-031-22137-8_4)  
-  Advanced Data Mining and Applications (**ADMA**), 2022.    
-  
-- Ce Xu, **Xiu Tang**, Peng Lu.    
-  [Using the Strongest Adversarial Example to Alleviate Robust Overfitting.](https://link.springer.com/chapter/10.1007/978-3-031-22137-8_27)  
-  Advanced Data Mining and Applications (**ADMA**), 2022.
 
 ### STUDENTS
 Wenhao Liu, PhD, started in 2023, AntGroup.      
