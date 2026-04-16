@@ -11,6 +11,10 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 #### AI & DB   
 
+- Wenhao Liu, Sai Wu, **Xiu Tang<sup>*</sup>**, Yitong Zhang, Dong Peng, Guolong Huang, Gang Chen.
+  IncreQueryFusion: On-demand Data Fusion Framework in Dynamic Data Lakes.
+  International Conference on Very Large Data Bases (**VLDB**), 2026.            
+                 
 - Xu Gao, **Xiu Tang<sup>*</sup>**, Chang Yao, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.     
   [OMCR: An Online Multivariate Forecaster for Cloud Resource Management.](https://ieeexplore.ieee.org/document/11197034)    
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025.        
