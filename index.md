@@ -156,12 +156,12 @@ Shijie Yang, Master, graduated in 2025, Tencent.
 - Advanced Database Technology, 2024 Autumn    
 - Software Testing, 2024 Winter    
 
-### Program Committee Member (Reviewer):   
+### Program Committee Member / Reviewer:   
 IEEE’s Transactions on Computers (IEEE TC) 2025    
 Transactions on Knowledge and Data Engineering (TKDE) 2024     
 The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS) 2026        
 ACM Multimedia (MM) 2026      
-AAAI Conference on Artificial Intelligence (AAAI) 2026       
+AAAI Conference on Artificial Intelligence (AAAI) 2026, 2027       
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026        
 International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2026       
 DBTest@SIGMOD 2024, 2026           
