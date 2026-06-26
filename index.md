@@ -165,7 +165,7 @@ AAAI Conference on Artificial Intelligence (AAAI) 2026, 2027
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026        
 International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2026       
 DBTest@SIGMOD 2024, 2026           
-The Conference on Information and Knowledge Management (CIKM) 2024, 2025       
+The Conference on Information and Knowledge Management (CIKM) 2024, 2025, 2026             
 Data Scuence and Engineering (DSE) 2024, 2025       
 Knowledge and Information Systems (KAIS) 2025         
 
