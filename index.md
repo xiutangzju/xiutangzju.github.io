@@ -99,8 +99,12 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
     
 - Zhenlong Dai, Zhuoluo Zhao, Hengning Wang, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.     
   Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement.    
-  The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.     
+  The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
+- Haotian Yang, Cheng Peng, Haobo Wang, Zhen Zhu, **Xiu Tang**, Gongsheng Yuan, Zhongle Xie, Sai Wu, Weiqiang Wang, Yu Cheng.              
+  Beyond Contrastive: Generative Reranking for Multilingual Text-Based Person Retrieval.           
+  The 34th ACM International Conference on Multimedia (**MM**), 2026.             
+               
 - Han Lin, **Xiu Tang<sup>*</sup>**, Huan Li, Wenxue Cao, Sai Wu, Chang Yao, Lidan Shou, Gang Chen.    
   [T2DR: A Two-Tier Deficiency-Resistant Framework for Incomplete Multimodal Learning.](https://aclanthology.org/2025.findings-acl.452/)    
   The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findings**), 2025.    
