@@ -20,7 +20,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025.        
 
 - Sai Wu, Ruichen Xia, Dingyu Yang, Rui Wang, Huihang Lai, Jiarui Guan, Jiameng Bai, Dongxiang Zhang, **Xiu Tang**, Zhongle Xie, Peng Lu, Gang Chen.      
-  MorphingDB: A Task-Centric AI-Native DBMS for Model Management and Inference.       
+  [MorphingDB: A Task-Centric AI-Native DBMS for Model Management and Inference.](https://dl.acm.org/doi/10.1145/3769844)               
   The ACM Special Interest Group on Management of Data (**SIGMOD**), 2026.      
       
 - **Xiu Tang**, Shijie Yang, Sai Wu, Dongxiang Zhang, Wenchao Zhou, Feifei Li, Gang Chen.    
@@ -68,7 +68,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   International Conference on Very Large Data Bases (**VLDB**), 2024.
         
 - Zhou He, Zhifei Pang, **Xiu Tang**, Sai Wu, Gang Chen.       
-  Corpus-Centric Learning for Zero-Shot Table.        
+  [Corpus-Centric Learning for Zero-Shot Table Retrieval.](https://dl.acm.org/doi/10.1145/3805712.3809544)                
   THE 49th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2026.          
         
 - Zhihao Chang, Ding Wang, **Xiu Tang<sup>*</sup>**, Kingsum Chow and Jianwei Yin.    
@@ -86,11 +86,11 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 #### Multimodal Learning & NLP    
 
 - Zhensheng Luo, Sai Wu, Yuan Qiu, Chang Yao, Gang Chen, **Xiu Tang<sup>*</sup>**.    
-  QBridge: Bridging Natural Language and SQL via Gold Query Rewriting with Agentic Refinement.        
+  [QBridge: Bridging Natural Language and SQL via Gold Query Rewriting with Agentic Refinement.](https://aclanthology.org/2026.acl-long.402.pdf)                 
   The 64rd Annual Meeting of the Association for Computational Linguistics (**ACL Main**), 2026.             
                
 - Kunyi Li, Sai Wu, **Xiu Tang<sup>*</sup>**, Chang Yao, Songhao Bu, Quanqing Xu, Gang Chen.       
-  Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?          
+  [Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?](https://dl.acm.org/doi/10.1145/3797110)                  
   The ACM International Conference on the Foundations of Software Engineering (**FSE**), 2026.       
         
 - Qianyi Yang, Bingcang Huang, Qin Zhou, Zhe Wang, Kai Chen, **Xiu Tang**, Chang Yao, Sai Wu.    
@@ -98,7 +98,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   IEEE Journal of Biomedical and Health Informatics, 2026.    
     
 - Zhenlong Dai, Zhuoluo Zhao, Hengning Wang, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.     
-  Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement.    
+  [Learner-Tailored Program Repair: A Solution Generator with Iterative Edit-Driven Retrieval Enhancement.](https://ojs.aaai.org/index.php/AAAI/article/view/40300)            
   The 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
 - Haotian Yang, Cheng Peng, Haobo Wang, Zhen Zhu, **Xiu Tang**, Gongsheng Yuan, Zhongle Xie, Sai Wu, Weiqiang Wang, Yu Cheng.              
@@ -114,7 +114,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 - Xuhang Zhu, **Xiu Tang**, Sai Wu, Yixuan Tang, Haobo Wang, Chang Yao, Ruichen Xia, Gang Chen.        
-  Bridge-SQL: Bridging Single- and Multi-Turn Text-to-SQL via Preference-Aligned Question Rewriting.        
+  [Bridge-SQL: Bridging Single- and Multi-Turn Text-to-SQL via Preference-Aligned Question Rewriting.](https://dl.acm.org/doi/abs/10.1007/978-981-92-0372-7_8)                   
   The 31st International Conference on Database Systems for Advanced Applications (**DASFAA**), 2026.      
             
 - Lilong Wen, **Xiu Tang**, Dongxiang Zhang.     
@@ -127,14 +127,14 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 ### STUDENTS
 Wenhao Liu, PhD, started in 2023, AntGroup.      
-Xu Gao, PhD, started in 2023.      
+Xu Gao, PhD, started in 2023, AntGroup.      
 Kunyi Li, PhD, started in 2023, Tencent.      
 Xuhang Zhu, PhD, started in 2024, AntGroup.      
 Kedi Wang, PhD, started in 2024, AntGroup.     
 Zhensheng Luo, PhD, started in 2025.   
 
 Jichen Li, Master, started in 2024  
-Wenxue Cao, Master, started in 2024, AntGroup.           
+Wenxue Cao, Master, started in 2024, Alibaba.                
 Jianhao Shao, Master, started in 2024    
 Peiqi Luo,  Master, started in 2024      
 Zhiqiang Cheng, Master, started in 2025     
@@ -155,10 +155,11 @@ Shijie Yang, Master, graduated in 2025, Tencent.
   Advisor: Prof. [Sai Wu](https://scholar.google.com/citations?hl=zh-CN&user=RMaqDKAAAAAJ)    
   
 ### TEACHING
-- Advanced Database Technology, 2025 Autumn    
-- Software Testing, 2025 Winter    
-- Advanced Database Technology, 2024 Autumn    
-- Software Testing, 2024 Winter    
+- Advanced Database Technology, 2026 Autumn     
+- Advanced Database Technology, 2025 Autumn      
+- Software Testing, 2025 Winter      
+- Advanced Database Technology, 2024 Autumn      
+- Software Testing, 2024 Winter      
 
 ### Program Committee Member / Reviewer:   
 IEEE’s Transactions on Computers (IEEE TC) 2025    
