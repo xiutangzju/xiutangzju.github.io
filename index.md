@@ -117,6 +117,16 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   [Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.](https://arxiv.org/pdf/2503.06510)  
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
+
+- Xuhang Zhu, Liyao Li, Haobo Wang, Yanyu CHEN, Hao Chen, Wentao Ye, Ziquan Wang, Haoxing Zhai, Ningtao Wang, Yu Cheng, Gang Chen, **Xiu Tang<sup>*</sup>**.        
+  OmniDA: Grounding Agentic Multimodal Data Analysis with Evidence-Aware Process Rewards.     
+  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP Finding**), 2026.          
+             
+- Zhenlong Dai, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.     
+  Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios.
+  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP Finding**), 2026.           
+
+                  
 - Xuhang Zhu, **Xiu Tang**, Sai Wu, Yixuan Tang, Haobo Wang, Chang Yao, Ruichen Xia, Gang Chen.        
   [Bridge-SQL: Bridging Single- and Multi-Turn Text-to-SQL via Preference-Aligned Question Rewriting.](https://dl.acm.org/doi/abs/10.1007/978-981-92-0372-7_8)                   
   The 31st International Conference on Database Systems for Advanced Applications (**DASFAA**), 2026.      
