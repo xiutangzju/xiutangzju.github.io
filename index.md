@@ -124,7 +124,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
              
 - Zhenlong Dai, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.     
   Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios.
-  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP Finding**), 2026.           
+  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP Main**), 2026.           
 
                   
 - Xuhang Zhu, **Xiu Tang**, Sai Wu, Yixuan Tang, Haobo Wang, Chang Yao, Ruichen Xia, Gang Chen.        
