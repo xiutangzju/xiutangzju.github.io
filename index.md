@@ -15,7 +15,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   IncreQueryFusion: On-demand Data Fusion Framework in Dynamic Data Lakes.          
   International Conference on Very Large Data Bases (**VLDB**), 2026.                 
                  
-- Xu Gao, **Xiu Tang<sup>*</sup>**, Chang Yao, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.     
+- Xu Gao, **Xiu Tang<sup>*</sup>**, Chang Yao<sup>*</sup>, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.     
   [OMCR: An Online Multivariate Forecaster for Cloud Resource Management.](https://ieeexplore.ieee.org/document/11197034)    
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025.        
 
@@ -118,12 +118,12 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 
-- Xuhang Zhu, Liyao Li, Haobo Wang, Yanyu CHEN, Hao Chen, Wentao Ye, Ziquan Wang, Haoxing Zhai, Ningtao Wang, Yu Cheng, Gang Chen, **Xiu Tang<sup>*</sup>**.        
+- Xuhang Zhu, Liyao Li, Yanyu CHEN, Hao Chen, Wentao Ye, Ziquan Wang, Haoxing Zhai, Ningtao Wang, Yu Cheng, Gang Chen, **Xiu Tang<sup>*</sup>**, Haobo Wang<sup>*</sup>.        
   OmniDA: Grounding Agentic Multimodal Data Analysis with Evidence-Aware Process Rewards.     
   The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP Finding**), 2026.          
              
 - Zhenlong Dai, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.     
-  Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios.
+  Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios.      
   The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP Main**), 2026.           
 
                   
