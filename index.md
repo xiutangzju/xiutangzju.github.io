@@ -118,7 +118,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 
-- Xuhang Zhu, Liyao Li, Yanyu CHEN, Hao Chen, Wentao Ye, Ziquan Wang, Haoxing Zhai, Ningtao Wang, Yu Cheng, Gang Chen, **Xiu Tang<sup>*</sup>**, Haobo Wang<sup>*</sup>.        
+- Xuhang Zhu, Liyao Li, Ningtao Wang, Yanyu CHEN, Hao Chen, Wentao Ye, Ziquan Wang, Haoxing Zhai, Yu Cheng, Gang Chen, **Xiu Tang<sup>*</sup>**, Haobo Wang<sup>*</sup>.        
   OmniDA: Grounding Agentic Multimodal Data Analysis with Evidence-Aware Process Rewards.     
   The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP Finding**), 2026.          
              
