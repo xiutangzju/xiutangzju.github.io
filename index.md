@@ -80,7 +80,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
 
 - Gongsheng Yuan, Xin Li, Sai Wu, Yuean Zhu, Dingyu Yang, Chang Yao, Xiu Tang, Gang Chen.
-  EACLOCK: An Efficient and Adaptive Page Replacement Algorithm to Understand Your Workload.
+  [EACLOCK: An Efficient and Adaptive Page Replacement Algorithm to Understand Your Workload.](https://ieeexplore.ieee.org/abstract/document/11669990)               
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.        
 
 - Haitian Hang, **Xiu Tang**, Bo Zhu, Jianlin Sun.  
