@@ -16,7 +16,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   International Conference on Very Large Data Bases (**VLDB**), 2026.
 
 - Xu Gao, Sai Wu, **Xiu Tang<sup>*</sup>**, Chang Yao<sup>*</sup>, Quanging Xu, Chuanhui Yang, Gang Chen.             
-  DADO: a LLM-based Distribution-Aligned and Diversity-Optimized Data Generator.
+  DADO: a LLM-based Distribution-Aligned and Diversity-Optimized Data Generator.             
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.        
                  
 - Xu Gao, **Xiu Tang<sup>*</sup>**, Chang Yao<sup>*</sup>, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.     
