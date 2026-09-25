@@ -2,14 +2,14 @@ Assistant Professor
 School of Software, Zhejiang University, China   
 Email: tangxiu@zju.edu.cn / [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=INkJByIAAAAJ)  
 
-My research interests lie generally in the area of AI & DB, software testing, multi-modal learning.  
-
+My research interests lie generally in the area of Data Agent, LLM & Multimodal data, LLM & Code.
+          
 ### News
 I am currently looking for PhD students to work on AI & DB. Please email me your CV if you are interested.
 
 ### PAPERS
 
-#### AI & DB   
+#### Data Agent   
 
 - Wenhao Liu, Sai Wu, **Xiu Tang<sup>*</sup>**, Yitong Zhang, Dong Peng, Guolong Huang, Gang Chen.        
   [IncreQueryFusion: On-demand Data Fusion Framework in Dynamic Data Lakes.](https://www.vldb.org/pvldb/vol19/p2032-tang.pdf)                          
@@ -22,14 +22,6 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 - Xu Gao, **Xiu Tang<sup>*</sup>**, Chang Yao<sup>*</sup>, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.     
   [OMCR: An Online Multivariate Forecaster for Cloud Resource Management.](https://ieeexplore.ieee.org/document/11197034)    
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025.        
-
-- Sai Wu, Ruichen Xia, Dingyu Yang, Rui Wang, Huihang Lai, Jiarui Guan, Jiameng Bai, Dongxiang Zhang, **Xiu Tang**, Zhongle Xie, Peng Lu, Gang Chen.      
-  [MorphingDB: A Task-Centric AI-Native DBMS for Model Management and Inference.](https://dl.acm.org/doi/10.1145/3769844)               
-  The ACM Special Interest Group on Management of Data (**SIGMOD**), 2026.      
-      
-- **Xiu Tang**, Shijie Yang, Sai Wu, Dongxiang Zhang, Wenchao Zhou, Feifei Li, Gang Chen.    
-  [Unveiling Logic Bugs in SPJG Query Optimizations within DBMS.](https://dl.acm.org/doi/abs/10.1145/3764583)          
-  ACM Transactions on Database Systems (**TODS**), 2025.    
           
 - Xuhang Zhu, **Xiu Tang<sup>*</sup>**, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen.    
   [CoLA: Model Collaboration for Log-based Anomaly Detection.](https://dl.acm.org/doi/10.14778/3749646.3749668)    
@@ -43,13 +35,28 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   [QueryArtisan: Generating Data Manipulation Codes for Ad-hoc Analysis in Data Lakes.](https://www.vldb.org/pvldb/vol18/p108-yao.pdf)    
   International Conference on Very Large Data Bases (**VLDB**), 2025.
 
-- Jiani Yang, Sai Wu, Yong Wang, Dongxiang Zhang, Yifei Liu, **Xiu Tang**, Gang Chen.      
-  [Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems.](https://dl.acm.org/doi/10.14778/3748191.3748197)   
-  International Conference on Very Large Data Bases (**VLDB**), 2025.   
-  
-- Haitian Hang, **Xiu Tang**, Jianling Sun, Lingfeng Bao, David Lo, Haoye Wang.    
-  [Robust Auto-Scaling with Probabilistic Workload Forecasting for Cloud Databases.](https://ieeexplore.ieee.org/abstract/document/10598101/authors)  
-  IEEE International Conference on Data Engineering (**ICDE**), 2024.  
+- Zhihao Chang, Ding Wang, **Xiu Tang<sup>*</sup>**, Kingsum Chow and Jianwei Yin.    
+  [General Neural Embedding for Sequence Distance Approximation.](https://dl.acm.org/doi/pdf/10.1145/3726302.3729985)        
+  THE 48th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2025.
+        
+- Zhou He, Zhifei Pang, **Xiu Tang**, Sai Wu, Gang Chen.       
+  [Corpus-Centric Learning for Zero-Shot Table Retrieval.](https://dl.acm.org/doi/10.1145/3805712.3809544)                
+  THE 49th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2026.
+
+- Zhen Zhu, Yibo Wang, Shouqing Yang, Lin Long, Runze Wu, **Xiu Tang**, Junbo Zhao, Haobo Wang.  
+  [CORAL: Collaborative Automatic Labeling System based on Large Language Models.](https://www.vldb.org/pvldb/vol17/p4401-zhu.pdf)     
+  International Conference on Very Large Data Bases (**VLDB**), 2024.
+   
+- Hongwei Yuan, **Xiu Tang**, Ke Chen, Lidan Shou, Gang Chen, Huan Li.    
+  [CogSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation.](https://ojs.aaai.org/index.php/AAAI/article/view/34770#:~:text=In%20this%20paper%2C%20we%20present%20COGSQL%2C%20a%20framework,replicating%20human%20cognitive%20processes%20for%20enhanced%20LLM-based%20text-to-SQL.)    
+  The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
+
+
+#### AI & DB.       
+      
+- **Xiu Tang**, Shijie Yang, Sai Wu, Dongxiang Zhang, Wenchao Zhou, Feifei Li, Gang Chen.    
+  [Unveiling Logic Bugs in SPJG Query Optimizations within DBMS.](https://dl.acm.org/doi/abs/10.1145/3764583)          
+  ACM Transactions on Database Systems (**TODS**), 2025.
 
 - **Xiu Tang**, Sai Wu, Dongxiang Zhang, Ziyue Wang, Gongsheng Yuan, Gang Chen.  
   [A Demonstration of DLBD: Database Logic Bug Detection System.](https://www.vldb.org/pvldb/vol16/p3914-wu.pdf)  
@@ -67,31 +74,29 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   [A Learning to Tune Framework for LSH.](https://ieeexplore.ieee.org/document/9458776)  
   International Conference on Data Engineering (**ICDE**), 2021.
 
-- Zhen Zhu, Yibo Wang, Shouqing Yang, Lin Long, Runze Wu, **Xiu Tang**, Junbo Zhao, Haobo Wang.  
-  [CORAL: Collaborative Automatic Labeling System based on Large Language Models.](https://www.vldb.org/pvldb/vol17/p4401-zhu.pdf)     
-  International Conference on Very Large Data Bases (**VLDB**), 2024.
-        
-- Zhou He, Zhifei Pang, **Xiu Tang**, Sai Wu, Gang Chen.       
-  [Corpus-Centric Learning for Zero-Shot Table Retrieval.](https://dl.acm.org/doi/10.1145/3805712.3809544)                
-  THE 49th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2026.          
-        
-- Zhihao Chang, Ding Wang, **Xiu Tang<sup>*</sup>**, Kingsum Chow and Jianwei Yin.    
-  [General Neural Embedding for Sequence Distance Approximation.](https://dl.acm.org/doi/pdf/10.1145/3726302.3729985)        
-  THE 48th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2025.
-   
-- Hongwei Yuan, **Xiu Tang**, Ke Chen, Lidan Shou, Gang Chen, Huan Li.    
-  [CogSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation.](https://ojs.aaai.org/index.php/AAAI/article/view/34770#:~:text=In%20this%20paper%2C%20we%20present%20COGSQL%2C%20a%20framework,replicating%20human%20cognitive%20processes%20for%20enhanced%20LLM-based%20text-to-SQL.)    
-  The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
 
-- Gongsheng Yuan, Xin Li, Sai Wu, Yuean Zhu, Dingyu Yang, Chang Yao, Xiu Tang, Gang Chen.
+ - Sai Wu, Ruichen Xia, Dingyu Yang, Rui Wang, Huihang Lai, Jiarui Guan, Jiameng Bai, Dongxiang Zhang, **Xiu Tang**, Zhongle Xie, Peng Lu, Gang Chen.      
+  [MorphingDB: A Task-Centric AI-Native DBMS for Model Management and Inference.](https://dl.acm.org/doi/10.1145/3769844)               
+  The ACM Special Interest Group on Management of Data (**SIGMOD**), 2026.
+
+  - Gongsheng Yuan, Xin Li, Sai Wu, Yuean Zhu, Dingyu Yang, Chang Yao, **Xiu Tang**, Gang Chen.
   [EACLOCK: An Efficient and Adaptive Page Replacement Algorithm to Understand Your Workload.](https://ieeexplore.ieee.org/abstract/document/11669990)               
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.        
 
+- Jiani Yang, Sai Wu, Yong Wang, Dongxiang Zhang, Yifei Liu, **Xiu Tang**, Gang Chen.      
+  [Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems.](https://dl.acm.org/doi/10.14778/3748191.3748197)   
+  International Conference on Very Large Data Bases (**VLDB**), 2025.   
+  
+- Haitian Hang, **Xiu Tang**, Jianling Sun, Lingfeng Bao, David Lo, Haoye Wang.    
+  [Robust Auto-Scaling with Probabilistic Workload Forecasting for Cloud Databases.](https://ieeexplore.ieee.org/abstract/document/10598101/authors)  
+  IEEE International Conference on Data Engineering (**ICDE**), 2024.
+
 - Haitian Hang, **Xiu Tang**, Bo Zhu, Jianlin Sun.  
   [Unlocking the Power of Diversity in Index Tuning for Cluster Databases.](https://link.springer.com/chapter/10.1007/978-3-031-68312-1_15)   
-  International Conference on Database and Expert Systems Applications (**DEXA**), 2024.
+  International Conference on Database and Expert Systems Applications (**DEXA**), 2024.        
+  
 
-#### Multimodal Learning & NLP    
+#### LLM & Multimodal Learning    
 
 - Yitong Zhang, **Xiu Tang<sup>*</sup>**, Sai Wu, Qirui Yang, Chang Yao, Gang Chen.           
   Towards Discriminative Multimodal Entity Linking for Ambiguous Entities via Hard Negative Clustering.             
@@ -104,7 +109,24 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 - Kunyi Li, Sai Wu, **Xiu Tang<sup>*</sup>**, Chang Yao, Songhao Bu, Quanqing Xu, Gang Chen.       
   [Debugging Engine Enhanced by Prior Knowledge: Can We Teach LLM How to Debug?](https://dl.acm.org/doi/10.1145/3797110)                  
   The ACM International Conference on the Foundations of Software Engineering (**FSE**), 2026.       
-        
+             
+               
+- Han Lin, **Xiu Tang<sup>*</sup>**, Huan Li, Wenxue Cao, Sai Wu, Chang Yao, Lidan Shou, Gang Chen.    
+  [T2DR: A Two-Tier Deficiency-Resistant Framework for Incomplete Multimodal Learning.](https://aclanthology.org/2025.findings-acl.452/)    
+  The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findings**), 2025.    
+
+- Xuhang Zhu, Liyao Li, Ningtao Wang, Yanyu CHEN, Hao Chen, Wentao Ye, Ziquan Wang, Haoxing Zhai, Yu Cheng, Gang Chen, **Xiu Tang<sup>*</sup>**, Haobo Wang<sup>*</sup>.        
+  OmniDA: Grounding Agentic Multimodal Data Analysis with Evidence-Aware Process Rewards.     
+  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP Finding**), 2026.
+
+- **Xiu Tang**, Sai Wu, Gang Chen, Ke Chen, Lidan Shou.  
+  [Learning to Label with Active Learning and Reinforcement Learning.](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_36)  
+  Database Systems for Advanced Applications (**DASFAA**), 2021.
+
+- Zhenlong Dai, Xujie Song, Zitongw, Tong Niu, Jian liu, Weiqiang Wang, **Xiu Tang**, Sai Wu, Chang Yao, Jingyuan Chen.          
+  ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning.
+  The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026.
+
 - Qianyi Yang, Bingcang Huang, Qin Zhou, Zhe Wang, Kai Chen, **Xiu Tang**, Chang Yao, Sai Wu.    
   [Unsupervised Brain Anomaly Detection Using Structure-Preserving Noise Generation and Multi-Scale Dual-Expert Ensembles.](https://ieeexplore.ieee.org/document/11250579)          
   IEEE Journal of Biomedical and Health Informatics, 2026.    
@@ -115,20 +137,12 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 - Haotian Yang, Cheng Peng, Haobo Wang, Zhen Zhu, **Xiu Tang**, Gongsheng Yuan, Zhongle Xie, Sai Wu, Weiqiang Wang, Yu Cheng.              
   Beyond Contrastive: Generative Reranking for Multilingual Text-Based Person Retrieval.           
-  The 34th ACM International Conference on Multimedia (**MM**), 2026.             
-               
-- Han Lin, **Xiu Tang<sup>*</sup>**, Huan Li, Wenxue Cao, Sai Wu, Chang Yao, Lidan Shou, Gang Chen.    
-  [T2DR: A Two-Tier Deficiency-Resistant Framework for Incomplete Multimodal Learning.](https://aclanthology.org/2025.findings-acl.452/)    
-  The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findings**), 2025.    
+  The 34th ACM International Conference on Multimedia (**MM**), 2026.        
    
 - Zhenlong Dai, Bingrui Chen, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.  
   [Less is More: Adaptive Program Repair with Bug Localization and Preference Learning.](https://arxiv.org/pdf/2503.06510)  
   The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
-
-
-- Xuhang Zhu, Liyao Li, Ningtao Wang, Yanyu CHEN, Hao Chen, Wentao Ye, Ziquan Wang, Haoxing Zhai, Yu Cheng, Gang Chen, **Xiu Tang<sup>*</sup>**, Haobo Wang<sup>*</sup>.        
-  OmniDA: Grounding Agentic Multimodal Data Analysis with Evidence-Aware Process Rewards.     
-  The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP Finding**), 2026.          
+       
              
 - Zhenlong Dai, Zhuoluo Zhao, **Xiu Tang**, Sai Wu, Chang Yao, Zhipeng Gao, Jingyuan Chen.     
   Enhancing Repository-Level Code Completion with Reinforcement Learning in Real-World Scenarios.      
@@ -143,9 +157,6 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   [TWIST: Text-only Weakly Supervised Scene Text Spotting Using Pseudo Labels.](https://dl.acm.org/doi/abs/10.1145/3652583.3658075)  
   International Conference on Multimedia Retrieval (**ICMR**), 2024.   
   
-- **Xiu Tang**, Sai Wu, Gang Chen, Ke Chen, Lidan Shou.  
-  [Learning to Label with Active Learning and Reinforcement Learning.](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_36)  
-  Database Systems for Advanced Applications (**DASFAA**), 2021.  
 
 ### STUDENTS
 Wenhao Liu, PhD, started in 2023, AntGroup.      
