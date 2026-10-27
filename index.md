@@ -16,7 +16,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   International Conference on Very Large Data Bases (**VLDB**), 2026.
 
 - Xu Gao, Sai Wu, **Xiu Tang<sup>*</sup>**, Chang Yao<sup>*</sup>, Quanging Xu, Chuanhui Yang, Gang Chen.             
-  DADO: a LLM-based Distribution-Aligned and Diversity-Optimized Data Generator.             
+  [DADO: a LLM-based Distribution-Aligned and Diversity-Optimized Data Generator.](https://ieeexplore.ieee.org/abstract/document/11701524).                     
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.        
                  
 - Xu Gao, **Xiu Tang<sup>*</sup>**, Chang Yao<sup>*</sup>, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.     
@@ -99,7 +99,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 #### LLM & Multimodal Learning    
 
 - Yitong Zhang, **Xiu Tang<sup>*</sup>**, Sai Wu, Qirui Yang, Chang Yao, Gang Chen.           
-  Towards Discriminative Multimodal Entity Linking for Ambiguous Entities via Hard Negative Clustering.             
+  [Towards Discriminative Multimodal Entity Linking for Ambiguous Entities via Hard Negative Clustering.](https://ieeexplore.ieee.org/abstract/document/11692357)                     
   IEEE Transactions on Multimedia (**TMM**)，2026.           
                 
 - Zhensheng Luo, Sai Wu, Yuan Qiu, Chang Yao, Gang Chen, **Xiu Tang<sup>*</sup>**.    
@@ -116,7 +116,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL Findings**), 2025.    
 
 - Xuhang Zhu, Liyao Li, Ningtao Wang, Yanyu CHEN, Hao Chen, Wentao Ye, Ziquan Wang, Haoxing Zhai, Yu Cheng, Gang Chen, **Xiu Tang<sup>*</sup>**, Haobo Wang<sup>*</sup>.        
-  OmniDA: Grounding Agentic Multimodal Data Analysis with Evidence-Aware Process Rewards.     
+  [OmniDA: Grounding Agentic Multimodal Data Analysis with Evidence-Aware Process Rewards.](https://aclanthology.org/2026.findings-emnlp.1066/)                 
   The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP Finding**), 2026.
 
 - **Xiu Tang**, Sai Wu, Gang Chen, Ke Chen, Lidan Shou.  
@@ -124,7 +124,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   Database Systems for Advanced Applications (**DASFAA**), 2021.
 
 - Zhenlong Dai, Xujie Song, Zitongw, Tong Niu, Jian liu, Weiqiang Wang, **Xiu Tang**, Sai Wu, Chang Yao, Jingyuan Chen.          
-  ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning.
+  [ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning.](https://arxiv.org/abs/2609.30906)            
   The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026.
 
 - Qianyi Yang, Bingcang Huang, Qin Zhou, Zhe Wang, Kai Chen, **Xiu Tang**, Chang Yao, Sai Wu.    
