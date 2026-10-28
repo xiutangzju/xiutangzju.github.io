@@ -4,8 +4,6 @@ Email: tangxiu@zju.edu.cn / [Google Scholar](https://scholar.google.com/citation
 
 My research interests lie generally in the area of Data Agent, LLM & Multimodal data, LLM & Code.
           
-### News
-I am currently looking for PhD students to work on AI & DB. Please email me your CV if you are interested.
 
 ### PAPERS
 
