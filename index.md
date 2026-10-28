@@ -9,7 +9,7 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 ### PAPERS
 
-#### Data Agent   
+#### AI & DB              
 
 - Wenhao Liu, Sai Wu, **Xiu Tang<sup>*</sup>**, Yitong Zhang, Dong Peng, Guolong Huang, Gang Chen.        
   [IncreQueryFusion: On-demand Data Fusion Framework in Dynamic Data Lakes.](https://www.vldb.org/pvldb/vol19/p2032-tang.pdf)                          
@@ -19,10 +19,6 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   [DADO: a LLM-based Distribution-Aligned and Diversity-Optimized Data Generator.](https://ieeexplore.ieee.org/abstract/document/11701524).                     
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.        
                  
-- Xu Gao, **Xiu Tang<sup>*</sup>**, Chang Yao<sup>*</sup>, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.     
-  [OMCR: An Online Multivariate Forecaster for Cloud Resource Management.](https://ieeexplore.ieee.org/document/11197034)    
-  IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025.        
-          
 - Xuhang Zhu, **Xiu Tang<sup>*</sup>**, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen.    
   [CoLA: Model Collaboration for Log-based Anomaly Detection.](https://dl.acm.org/doi/10.14778/3749646.3749668)    
   International Conference on Very Large Data Bases (**VLDB**), 2025. <font color=IndianRed><b>VLDBJ "Best of VLDB 2025" Special Issue (Invited)</b></font>        
@@ -37,22 +33,11 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 - Zhihao Chang, Ding Wang, **Xiu Tang<sup>*</sup>**, Kingsum Chow and Jianwei Yin.    
   [General Neural Embedding for Sequence Distance Approximation.](https://dl.acm.org/doi/pdf/10.1145/3726302.3729985)        
-  THE 48th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2025.
-        
-- Zhou He, Zhifei Pang, **Xiu Tang**, Sai Wu, Gang Chen.       
-  [Corpus-Centric Learning for Zero-Shot Table Retrieval.](https://dl.acm.org/doi/10.1145/3805712.3809544)                
-  THE 49th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2026.
+  THE 48th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2025.     
 
-- Zhen Zhu, Yibo Wang, Shouqing Yang, Lin Long, Runze Wu, **Xiu Tang**, Junbo Zhao, Haobo Wang.  
-  [CORAL: Collaborative Automatic Labeling System based on Large Language Models.](https://www.vldb.org/pvldb/vol17/p4401-zhu.pdf)     
-  International Conference on Very Large Data Bases (**VLDB**), 2024.
-   
-- Hongwei Yuan, **Xiu Tang**, Ke Chen, Lidan Shou, Gang Chen, Huan Li.    
-  [CogSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation.](https://ojs.aaai.org/index.php/AAAI/article/view/34770#:~:text=In%20this%20paper%2C%20we%20present%20COGSQL%2C%20a%20framework,replicating%20human%20cognitive%20processes%20for%20enhanced%20LLM-based%20text-to-SQL.)    
-  The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.  
-
-
-#### AI & DB.       
+- Xu Gao, **Xiu Tang<sup>*</sup>**, Chang Yao<sup>*</sup>, Sai Wu, Gongsheng Yuan, Wenchao Zhou, Feifei Li, Gang Chen.     
+  [OMCR: An Online Multivariate Forecaster for Cloud Resource Management.](https://ieeexplore.ieee.org/document/11197034)    
+  IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2025.        
       
 - **Xiu Tang**, Shijie Yang, Sai Wu, Dongxiang Zhang, Wenchao Zhou, Feifei Li, Gang Chen.    
   [Unveiling Logic Bugs in SPJG Query Optimizations within DBMS.](https://dl.acm.org/doi/abs/10.1145/3764583)          
@@ -74,6 +59,9 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
   [A Learning to Tune Framework for LSH.](https://ieeexplore.ieee.org/document/9458776)  
   International Conference on Data Engineering (**ICDE**), 2021.
 
+- Zhou He, Zhifei Pang, **Xiu Tang**, Sai Wu, Gang Chen.       
+  [Corpus-Centric Learning for Zero-Shot Table Retrieval.](https://dl.acm.org/doi/10.1145/3805712.3809544)                
+  THE 49th international ACM SIGIR conference on research and development in information retrieval (**SIGIR**), 2026.
 
  - Sai Wu, Ruichen Xia, Dingyu Yang, Rui Wang, Huihang Lai, Jiarui Guan, Jiameng Bai, Dongxiang Zhang, **Xiu Tang**, Zhongle Xie, Peng Lu, Gang Chen.      
   [MorphingDB: A Task-Centric AI-Native DBMS for Model Management and Inference.](https://dl.acm.org/doi/10.1145/3769844)               
@@ -85,11 +73,19 @@ I am currently looking for PhD students to work on AI & DB. Please email me your
 
 - Jiani Yang, Sai Wu, Yong Wang, Dongxiang Zhang, Yifei Liu, **Xiu Tang**, Gang Chen.      
   [Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems.](https://dl.acm.org/doi/10.14778/3748191.3748197)   
-  International Conference on Very Large Data Bases (**VLDB**), 2025.   
-  
+  International Conference on Very Large Data Bases (**VLDB**), 2025.
+   
+- Hongwei Yuan, **Xiu Tang**, Ke Chen, Lidan Shou, Gang Chen, Huan Li.    
+  [CogSQL: A Cognitive Framework for Enhancing Large Language Models in Text-to-SQL Translation.](https://ojs.aaai.org/index.php/AAAI/article/view/34770#:~:text=In%20this%20paper%2C%20we%20present%20COGSQL%2C%20a%20framework,replicating%20human%20cognitive%20processes%20for%20enhanced%20LLM-based%20text-to-SQL.)    
+  The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025.           
+                 
+- Zhen Zhu, Yibo Wang, Shouqing Yang, Lin Long, Runze Wu, **Xiu Tang**, Junbo Zhao, Haobo Wang.  
+  [CORAL: Collaborative Automatic Labeling System based on Large Language Models.](https://www.vldb.org/pvldb/vol17/p4401-zhu.pdf)     
+  International Conference on Very Large Data Bases (**VLDB**), 2024.            
+                        
 - Haitian Hang, **Xiu Tang**, Jianling Sun, Lingfeng Bao, David Lo, Haoye Wang.    
   [Robust Auto-Scaling with Probabilistic Workload Forecasting for Cloud Databases.](https://ieeexplore.ieee.org/abstract/document/10598101/authors)  
-  IEEE International Conference on Data Engineering (**ICDE**), 2024.
+  IEEE International Conference on Data Engineering (**ICDE**), 2024.       
 
 - Haitian Hang, **Xiu Tang**, Bo Zhu, Jianlin Sun.  
   [Unlocking the Power of Diversity in Index Tuning for Cluster Databases.](https://link.springer.com/chapter/10.1007/978-3-031-68312-1_15)   
