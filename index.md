@@ -158,7 +158,8 @@ Xu Gao, PhD, started in 2023, AntGroup.
 Kunyi Li, PhD, started in 2023, Tencent.      
 Xuhang Zhu, PhD, started in 2024, AntGroup.      
 Kedi Wang, PhD, started in 2024, AntGroup.     
-Zhensheng Luo, PhD, started in 2025.   
+Zhensheng Luo, PhD, started in 2025.     
+Zhe Huang, PhD, started in 2026.        
 
 Jichen Li, Master, started in 2024  
 Wenxue Cao, Master, started in 2024, Alibaba.                
@@ -169,9 +170,15 @@ Kaixin Jin, Master, started in 2025
 Zheng Meng, Master, started in 2025      
 Yitong Zhang,  Master, started in 2025     
 Jinjin Wang,  Master, started in 2025         
+Qirui Yang, Master, started in 2026         
+Chenxi He, Master, started in 2026         
+Mengzhe Ye, Master, started in 2026         
+Chaoyue Ren, Master, started in 2026        
+Yufan Huang, Master, started in 2026        
+Xinyang Shi, Master, started in 2026        
 
-Han Lin, Master, graduated in 2026, Alibaba.    
-Yuanrong Wu, Master, graduated in 2026, Baidu.    
+Han Lin, Master, graduated in 2026, Alibaba.     
+Yuanrong Wu, Master, graduated in 2026, Baidu.     
 Xingjian Huang, Master, graduated in 2026, Tencent.     
 Mengfei Cai, Master, graduated in 2026, AntGroup.     
 Shijie Yang, Master, graduated in 2025, Tencent.     
