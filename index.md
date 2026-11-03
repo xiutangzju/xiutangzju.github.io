@@ -7,7 +7,7 @@ My research interests lie generally in the area of Data Agent, LLM & Multimodal 
 
 ### PAPERS
 
-#### AI & DB              
+#### AI & Data              
 
 - Wenhao Liu, Sai Wu, **Xiu Tang<sup>*</sup>**, Yitong Zhang, Dong Peng, Guolong Huang, Gang Chen.        
   [IncreQueryFusion: On-demand Data Fusion Framework in Dynamic Data Lakes.](https://www.vldb.org/pvldb/vol19/p2032-tang.pdf)                          
@@ -90,8 +90,12 @@ My research interests lie generally in the area of Data Agent, LLM & Multimodal 
   International Conference on Database and Expert Systems Applications (**DEXA**), 2024.        
   
 
-#### LLM & Multimodal Learning    
+#### LLM & Multimodal Learning      
 
+- Wenxue Cao, **Xiu Tang<sup>*</sup>**, Huan Li, Sai Wu, Chang Yao, Lidan Shou.          
+  REACT: Relevance-Enhanced Adaptive Consensus for Multi-Task Data Selection.              
+  The Twentieth International Conference on Web Search and Data Mining (**WSDM Main**), 2027.            
+                          
 - Yitong Zhang, **Xiu Tang<sup>*</sup>**, Sai Wu, Qirui Yang, Chang Yao, Gang Chen.           
   [Towards Discriminative Multimodal Entity Linking for Ambiguous Entities via Hard Negative Clustering.](https://ieeexplore.ieee.org/abstract/document/11692357)                     
   IEEE Transactions on Multimedia (**TMM**)，2026.           
