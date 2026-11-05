@@ -117,10 +117,6 @@ My research interests lie generally in the area of Data Agent, LLM & Multimodal 
   [OmniDA: Grounding Agentic Multimodal Data Analysis with Evidence-Aware Process Rewards.](https://aclanthology.org/2026.findings-emnlp.1066/)                 
   The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP Finding**), 2026.
 
-- **Xiu Tang**, Sai Wu, Gang Chen, Ke Chen, Lidan Shou.  
-  [Learning to Label with Active Learning and Reinforcement Learning.](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_36)  
-  Database Systems for Advanced Applications (**DASFAA**), 2021.
-
 - Zhenlong Dai, Xujie Song, Zitongw, Tong Niu, Jian liu, Weiqiang Wang, **Xiu Tang**, Sai Wu, Chang Yao, Jingyuan Chen.          
   [ToolSearcher: Optimizing Tool Selection at Scale via Reinforcement Learning.](https://arxiv.org/abs/2609.30906)            
   The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026.
@@ -153,7 +149,11 @@ My research interests lie generally in the area of Data Agent, LLM & Multimodal 
             
 - Lilong Wen, **Xiu Tang**, Dongxiang Zhang.     
   [TWIST: Text-only Weakly Supervised Scene Text Spotting Using Pseudo Labels.](https://dl.acm.org/doi/abs/10.1145/3652583.3658075)  
-  International Conference on Multimedia Retrieval (**ICMR**), 2024.   
+  International Conference on Multimedia Retrieval (**ICMR**), 2024.          
+  
+- **Xiu Tang**, Sai Wu, Gang Chen, Ke Chen, Lidan Shou.           
+  [Learning to Label with Active Learning and Reinforcement Learning.](https://link.springer.com/chapter/10.1007/978-3-030-73197-7_36)  
+  Database Systems for Advanced Applications (**DASFAA**), 2021.           
   
 
 ### STUDENTS
