@@ -65,7 +65,7 @@ My research interests lie generally in the area of Data Agent, LLM & Multimodal 
   [MorphingDB: A Task-Centric AI-Native DBMS for Model Management and Inference.](https://dl.acm.org/doi/10.1145/3769844)               
   The ACM Special Interest Group on Management of Data (**SIGMOD**), 2026.
 
-  - Gongsheng Yuan, Xin Li, Sai Wu, Yuean Zhu, Dingyu Yang, Chang Yao, **Xiu Tang**, Gang Chen.
+  - Gongsheng Yuan, Xin Li, Sai Wu, Yuean Zhu, Dingyu Yang, Chang Yao, **Xiu Tang**, Gang Chen.             
   [EACLOCK: An Efficient and Adaptive Page Replacement Algorithm to Understand Your Workload.](https://ieeexplore.ieee.org/abstract/document/11669990)               
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.        
 
